@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Al Karni;Badr
+FN:Badr Al Karni
+ORG:Microsoft
+TITLE:Cybersecurity Senior Director
+TEL;TYPE=CELL:+966505727374
+EMAIL:badr.karni@microsoft.com
+PHOTO;VALUE=URI:https://example.com/photos/salman.jpg
+END:VCARD
